@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
+title: "Arboreum Product Demo"
+description: ""
+show_downloads: false
+google_analytics: "G-F2DRPCK8DM"
 github:
   is_project_page: false
