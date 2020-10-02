@@ -1,8 +1,7 @@
 ## Product demo
 
-App: https://app.arboreum.dev/
-
-UI Storyboard: https://app.arboreum.dev/demo
+[App](https://app.arboreum.dev/)
+[UI Storyboard](https://app.arboreum.dev/demo)
 
 ## Product video
 
